@@ -10,3 +10,4 @@ public interface HistorialClinicoRepository extends JpaRepository<HistorialClini
 
 
 
+
