@@ -79,7 +79,7 @@ app.mail.dev-mode=false
 ## Levantar el proyecto
 
 ```bash
-git clone https://github.com/SHEILAJPM/Backend-Clinica-DentalPro.git
+git clone https://github.com/JuanVictorFY/Backend-Clinica-DentalPro.git
 cd Backend-Clinica-DentalPro
 mvn spring-boot:run
 ```
@@ -399,10 +399,9 @@ HistorialClinico                          id, atencionId, └── TratamientoC
 
 Proyecto diseñado, desarrollado e implementado por:
 
-- **Desarrolladora:** Sheila JPM
-- **LinkedIn:** [Sheila Jacqueline Principe Merino](https://www.linkedin.com/in/sheila-jacqueline-principe-merino-1579802aa/)
-- **GitHub:** [@SHEILAJPM](https://github.com/SHEILAJPM)
-- **Contacto:** [principemerinosheila@gmail.com](mailto:principemerinosheila@gmail.com)
+- **Desarrollador:** Juan Victor Figueroa Yupton
+- **GitHub:** [@JuanVictorFY](https://github.com/JuanVictorFY)
+- **Contacto:** [figyuptonj99@gmail.com](mailto:figyuptonj99@gmail.com)
 
 ---
 
